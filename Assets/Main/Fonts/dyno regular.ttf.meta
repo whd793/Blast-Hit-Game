@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 806820afc2fd2457db4d223af2c086a1
+timeCreated: 1530731231
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dyno
+  fontNames:
+  - Dyno
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ae3065283d0049c7a507569ddb41cd3, type: 3}
+  - {fileID: 12800000, guid: 295db76448dec4a49997856bf9c9028d, type: 3}
+  - {fileID: 12800000, guid: 65f09cd654aaa438fa3192560aaae60f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
